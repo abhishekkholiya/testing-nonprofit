@@ -1,0 +1,1 @@
+// content of Footer.js from website-template repo
